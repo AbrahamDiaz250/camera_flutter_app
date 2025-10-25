@@ -1,16 +1,11 @@
-# camera_app
 
-A new Flutter project.
+## Camera Flutter App
 
-## Getting Started
+Aplicación Flutter que permite capturar imágenes usando la cámara del dispositivo.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación y ejecución
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/AbrahamDiaz250/camera_flutter_app.git
