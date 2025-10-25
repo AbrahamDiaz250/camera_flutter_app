@@ -14,5 +14,5 @@ Aplicación Flutter que permite capturar imágenes usando la cámara del disposi
 ## 📸 Evidencia de la aplicación funcionando
 
 Captura de foto realizada por la aplicación
-   screenshots/evidencia.png
+   screenshots/evidencia1.jpeg
 
